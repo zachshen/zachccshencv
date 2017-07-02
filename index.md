@@ -1,37 +1,121 @@
-## Welcome to GitHub Pages
+<html lang="en">
 
-You can use the [editor on GitHub](https://github.com/zachshen/zachccshencv/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<head>
+    <meta charset="utf-8">
+    <title>Zach Shen</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    <!-- Le styles -->
+    <link rel="stylesheet" href="css/bootstrap-responsive.css">
+    <style type="text/css">
+        body {
+            /*            padding-top: 60px;*/
+            padding-bottom: 40px;
+        }
 
-### Markdown
+    </style>
+    <link rel="stylesheet" href="css/bootstrap-responsive.css">
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="~/Scripts/BS2/html5shiv.js"></script>
+    <![endif]-->
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    <!-- Fav and touch icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/Images/BS2/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/Images/BS2/ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/Images/BS2/ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="/Images/BS2/ico/apple-touch-icon-57-precomposed.png">
+    <link rel="shortcut icon" href="/Images/BS2/ico/favicon.png">
+    <link rel="Shortcut Icon" type="image/x-icon" href="favicon.ico">
 
-```markdown
-Syntax highlighted code block
+</head>
 
-# Header 1
-## Header 2
-### Header 3
+<body>
+    <!--    set background 背景圖-->
+    <!--           background-position: center;-->
+    <!--attachment位置不改 width:400%延伸-->
+    <div class="bimag"></div>
 
-- Bulleted
-- List
+    <!--    <div class="zachzach"></div>-->
 
-1. Numbered
-2. List
+    <!-- Main hero unit for a primary marketing message or call to action -->
 
-**Bold** and _Italic_ and `Code` text
+    <!--    <div style="margin:20px;">-->
+    <!--        <div style="margin-left:80px">-->
 
-[Link](url) and ![Image](src)
-```
+    <!--Name h1-->
+    <div style="margin-left:70px;margin-top:-40px;width:60px;">
+        <h1 class="color_3">Zach Shen </h1>
+    </div>
+    <div style="margin-left:140px;margin-top:-66px;width:140px;height:50">
+        <!--            <h1 class="color_2" style="font-size:18px">OOOOOOOO</h1>-->
+        <h1>
+            <a class="color_2" style="font-size:16px" href="https://drive.google.com/open?id=0By34M4OzQRb5WVhDQTZ6V0ZxM1E">。個人履歷表 </a> <br>
+            <a class="color_2" style="font-size:16px" href="https://goo.gl/qrNfDS">。影音作品 </a>
+        </h1>
+    </div>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+    <div style="margin-left:70px;margin-top:20px;width:140px;">
+        <h0 class="color_3">沈治辰 </h0>
+    </div>
 
-### Jekyll Themes
+    <!--     讓照片變圓圈border-radius:50%;-->
+    <!--margin-left:700px+++pxpxpx-->
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zachshen/zachccshencv/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+    <div style="margin-left:500px;margin-top:-180px;width:160px;">
+        <img src="http://i.imgur.com/V2U0E4M.jpg" title="zachshen" style="width:150px; height: 150px; object-fit: cover;border-radius:50%;">
+    </div>
+    <div class="span12">
+        <br><br>
+        <div class="hero-unit">
+            <p> Hello World! <br> I am Zach from Taiwan, a lovely country located in the East and Southeast Asia region. I enjoy playing volleyball, ping pong(table tennis) and darts with friends. I also scuba dived and surfing in Bali. Being a movie lover, watching classic movie is always my favorite pastime. Drinking coffee or tea without sugar but with music(kidding) every morning ,and sometimes turn on the radio to get more information, knowledge, and stories. After completing my Bachelor of Journalism in 2015, I have started learning coding since October 2016 such as CSS, JavaScript, D3.js by using Brackets and Github.
+                <!--                <br> 自2014年底開始，因為課程「健康傳播」的影響，養成出門自備環保筷的習慣。-->
+                <!--                <br> 日常生活擺脫不了廣告、電影、節目與短片。音樂總是容易被有年紀的歌曲吸引。</p>-->
+        </div>
+        <br>
+        <br>
+        <hr>
 
-### Support or Contact
+    </div>
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+    <!-- Example row of columns -->
+    <div class="row">
+        <div class="span4">
+            <h2>音樂Music/</h2>
+            <p><br> Nina Simone - Feeling Good<br> Billy Joel - Piano Man<br> Queen - Bohemian Rhapsody
+                <br> 陳昇
+                <br> 陳綺貞
+                <br> 魏如萱</p>
+            <p>
+                <!--            <a class="btn" href="#">View details »</a>-->
+            </p>
+        </div>
+        <div class="span4">
+            <h2>電影Movie/</h2>
+            <p><br> 愛在黎明破曉時 Before Sunrise<br> 新娘百分百 Notting Hill<br> 真愛每一天 About Time<br> 海上鋼琴師 La Leggenda del Pianista sull'Oceano<br> 小森食光 リトル・フォレスト<br> 完美陌生人 Perfetti sconosciuti<br></p>
+            <p>
+                <!--            <a class="btn" href="#">View details »</a>-->
+            </p>
+        </div>
+        <div class="span4">
+            <h2>書本</h2>
+            <p>誰控制了總開關<br>依然德意志<br>巴黎踢踏透<br><br>
+
+
+            </p>
+            <p>
+                <!--                <a class="btn" href="#">View details»</a>-->
+            </p>
+        </div>
+    </div>
+    <hr>
+
+
+
+    <!-- /container -->
+
+</body>
+
+</html>
